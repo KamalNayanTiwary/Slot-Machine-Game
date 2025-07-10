@@ -36,3 +36,13 @@ Users can bet virtual money, spin reels, and try their luck to win more!
 ```bash
 git clone https://github.com/KamalNayanTiwary/Slot-Machine-Game.git
 cd Slot-Machine-Game
+
+---
+
+🕹️ Game Logic:
+
+🎯 3 matching emojis → ✅ Win 10x your bet
+🎯 2 matching emojis → ✅ Win 2x your bet
+❌ No match → Lose your bet
+
+💰 Balance = 0 → Restart option becomes available
