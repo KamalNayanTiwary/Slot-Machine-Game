@@ -29,6 +29,9 @@ Users can bet virtual money, spin reels, and try their luck to win more!
 
 ---
 
+## ✍️ Author
+- **Made with ❤️ using Python and Streamlit by Kamal Nayan Tiwary**
+
 ## ⚙️ How to Run Locally
 
 ### 1. Clone the Repository
